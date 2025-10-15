@@ -5,16 +5,17 @@
 ## Creacion de archivos
 Tengo que crear lo gitignore para ignorar ciertos comandos y omitir su commit, bootstrap.sh, Vagrantfile.
 
-Iniciar Git:<br>
-![IniciarGit](images\Captura.png)
+Iniciar Git<br>
+![IniciarGit](images/Captura.png)
 
-Crear Vagrantfile:<br>
-![Vagrantfile](images/Captura1.png)
+Crear Vagrantfile<br>
+![Vagrantfile](images/Captura1.PNG)
+
 
 - Añadimos una carpeta config/ que la vamos a utilizar para copiar los archivos necesarios para provisionar el servicio.
 
 ## Inicializar repositorio Git
-Creo bootstrap.sh:<br>
+Creo bootstrap.sh<br>
 ![bootstrap.sh](images/Captura2.png)
 
 ## Configuraciones DNS
