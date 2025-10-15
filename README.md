@@ -6,7 +6,7 @@
 Tengo que crear lo gitignore para ignorar ciertos comandos y omitir su commit, bootstrap.sh, Vagrantfile.
 
 Iniciar Git:<br>
-![IniciarGit](images/Captura.png)
+![IniciarGit](images\Captura.png)
 
 Crear Vagrantfile:<br>
 ![Vagrantfile](images/Captura1.png)
@@ -15,7 +15,7 @@ Crear Vagrantfile:<br>
 
 ## Inicializar repositorio Git
 Creo bootstrap.sh:<br>
-![bootstrap](images/Captura2.png)
+![bootstrap.sh](images/Captura2.png)
 
 ## Configuraciones DNS
 En config/, tengo que crear 4 ficheros donde tengo que crear las rutas de mi dominio.
@@ -29,7 +29,7 @@ En config/, tengo que crear 4 ficheros donde tengo que crear las rutas de mi dom
 - David.test.rev: Combierte direcciones IP en nombres de dominio.
 
 ## Verificar configuraciones
-Voy a verificar los archivos y configuraciones que he hecho recientemente, para ello, tengo que meterme en la maquina virtual con el comando vagrant ssh <br>
+- Voy a verificar los archivos y configuraciones que he hecho recientemente, para ello, tengo que meterme en la maquina virtual con el      comando vagrant ssh <br>
 ![Vagrant ssh](images/Captura4.png)
 
 - Me aseguro que tengo el bind9 corriendo. <br>
