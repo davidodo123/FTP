@@ -1,5 +1,5 @@
 - Primeramente, levanto la maquina con vagrant up
-![Vagrant up](images\Captura4.PNG)
+![Vagrant up](images\Captura4.png)
 # DNS Paso a Paso
 
 Este proyecto implementa un servidor DNS básico en Python. Permite la resolución de nombres de dominio a direcciones IP y viceversa, siguiendo los pasos detallados en el archivo `bootstrap.sh`.
