@@ -15,7 +15,7 @@ Crear Vagrantfile:
 
 ## Inicializar repositorio Git
 Creo bootstrap.sh:
-![bootsrap](images\Captura2.PNG)
+![bootsrap](images/Captura2.PNG)
 
 ## Configuraciones DNS
 En config/, tengo que crear 4 ficheros donde tengo que crear las rutas de mi dominio.
@@ -30,10 +30,10 @@ En config/, tengo que crear 4 ficheros donde tengo que crear las rutas de mi dom
 
 ## Verificar configuraciones
 Voy a verificar los archivos y configuraciones que he hecho recientemente, para ello, tengo que meterme en la maquina virtual con el comando vagrant ssh
-![Vagrant ssh](images\Captura4.PNG)
+![Vagrant ssh](/images/Captura4.PNG)
 
 - Me aseguro que tengo el bind9 corriendo.
-![bind9](images\Captura5.PNG)
+![bind9](images/Captura5.png)
 
 - Apunte importante, he estado horas y horas buscando un error y era que local me estaba buscando una direccion super rara que no habia puesto, supongo que lo habia cogido de la red o algo no lo se, lo he conseguidop arreglar sustituyendolo y poniendolo por las mias. Los sudos que hay en los test si los quito no me funciona porque si los pongo sueltos en la maquina se me queda pillado asi que no se como arrglarlo mejor.
 
