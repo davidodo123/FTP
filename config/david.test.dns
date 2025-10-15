@@ -1,10 +1,11 @@
 $TTL 86400
-@   IN  SOA debian.david.test. admin.david.test. (
-        2025010201  ; Serial
-        3600        ; Refresh
-        1800        ; Retry
-        604800      ; Expire
-        86400 )     ; Negative Cache TTL
+@   IN  SOA ns1.david.test. admin.david.test. (
+        2025101503  ; serial  << súbelo si ya existía
+        3600        ; refresh
+        900         ; retry
+        1209600     ; expire
+        86400 )     ; minimum
 
-@       IN  NS  debian.david.test.
+@       IN  NS  ns1.david.test.
+ns1     IN  A   192.168.56.10
 debian  IN  A   192.168.56.10

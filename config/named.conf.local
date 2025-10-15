@@ -1,9 +1,9 @@
 zone "david.test" {
     type master;
-    file "/etc/bind/db.david.test";
+    file "/etc/bind/david.test.dns";
 };
 
 zone "56.168.192.in-addr.arpa" {
     type master;
-    file "/etc/bind/db.192.168.56";
+    file "/etc/bind/david.test.rev";
 };

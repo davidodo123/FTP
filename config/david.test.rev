@@ -1,10 +1,9 @@
 $TTL 86400
-@   IN  SOA debian.david.test. admin.david.test. (
-        2025010201
+@   IN  SOA ns1.david.test. admin.david.test. (
+        2025101503
         3600
-        1800
-        604800
+        900
+        1209600
         86400 )
-
-@      IN  NS  debian.david.test.
+@      IN  NS  ns1.david.test.
 10     IN  PTR debian.david.test.
