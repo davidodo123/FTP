@@ -19,3 +19,7 @@ Efectivamente esta corriendo.
 
 Crear en el escritorio carpeta pruebaFTP.
 Crear dentro archivo datos1.txt
+
+
+Me instalo Filezilla porque la práctica me pide que use un cliente FTP gráfico para conectarme a un servidor FTP remoto y hacer pruebas de conexión, descarga y subida de archivos.
+
