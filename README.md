@@ -54,3 +54,5 @@ Se han habilitado los accesos de usuarios locales y anónimos, configurado los p
 Luego excluyo a Mario del chroot
 
 Reinicio el servicio y compruebo si esta bien.
+
+Verifico el servicio y me vuelvo a conectar en FileZilla con mi servidor.
