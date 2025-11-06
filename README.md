@@ -67,3 +67,5 @@ Vuelvo a abrir la lista de bloqueados y meto a Maria, luego me voy a FileZilla y
 Procedo a crear el certificado SSL para FTPS. Me pedira rellenar los datos.
 
 Configurar vsftpd para usar FTPS editando el archivo de configuracion.
+
+Reinicio el servicio y compruebo el puerto si sigue cogiendo el 21.
