@@ -26,3 +26,4 @@ Me instalo Filezilla porque la práctica me pide que use un cliente FTP gráfico
 En la parte superior izquierda, hay que rellenar los datos de Servidor, nombre de usuario, contraseña (en este caso vacia) y puerto con ftp.cica.es como servidor, anonymous como usuario y 21 como puerto. Luego le das a Conexion Rapida.
 
 
+Te tendra que salir esto si es exitosa la conexion.
