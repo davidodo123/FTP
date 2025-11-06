@@ -9,3 +9,6 @@ Actualizo el sistema e instalo el servicio.
 Primero hago sudo install apt para actualizarlo, tarda un poco.
 
 Luego sudo apt install -y vsftpd para instalarlo.
+
+Compruebo que el servicio este activo. 
+
