@@ -52,3 +52,5 @@ En este paso se ha modificado el archivo de configuración /etc/vsftpd.conf para
 Se han habilitado los accesos de usuarios locales y anónimos, configurado los permisos de lectura y escritura, establecido límites de velocidad, definido mensajes de bienvenida y activado el modo chroot para que los usuarios locales queden confinados en su directorio personal.
 
 Luego excluyo a Mario del chroot
+
+Reinicio el servicio y compruebo si esta bien.
