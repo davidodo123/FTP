@@ -7,3 +7,5 @@ Hago un sudo nano /etc/bind/db.david.test y añado ftp     IN      CNAME   ns al
 
 Actualizo el sistema e instalo el servicio. 
 Primero hago sudo install apt para actualizarlo, tarda un poco.
+
+Luego sudo apt install -y vsftpd para instalarlo.
