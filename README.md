@@ -18,3 +18,4 @@ Efectivamente esta corriendo.
 ## Uso del cliente FTP gráfico
 
 Crear en el escritorio carpeta pruebaFTP.
+Crear dentro archivo datos1.txt
