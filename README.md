@@ -69,3 +69,6 @@ Procedo a crear el certificado SSL para FTPS. Me pedira rellenar los datos.
 Configurar vsftpd para usar FTPS editando el archivo de configuracion.
 
 Reinicio el servicio y compruebo el puerto si sigue cogiendo el 21.
+
+
+Vulevo a Filezilla, inicio el servidor como ftp.david.test y me descargo y subo algun archivo, enefecto la transferencia es correcta.
