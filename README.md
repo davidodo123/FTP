@@ -65,3 +65,5 @@ Vuelvo a abrir la lista de bloqueados y meto a Maria, luego me voy a FileZilla y
 ## Configuración servidor
 
 Procedo a crear el certificado SSL para FTPS. Me pedira rellenar los datos.
+
+Configurar vsftpd para usar FTPS editando el archivo de configuracion.
