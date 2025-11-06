@@ -1,2 +1,6 @@
-.vagrant/
+# Ignorar todo
+*
 
+# Exceptuar este archivo
+!.gitignore
+!README.md
