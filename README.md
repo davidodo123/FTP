@@ -47,3 +47,7 @@ Hago una copia de seguridad.
 Creo los 3 usuarios locales maria, miguel y luis con sudo useradd -m <usuario>. 
 
 Creo 3 ficheros de pruebas para los usuarios locales.
+
+En este paso se ha modificado el archivo de configuración /etc/vsftpd.conf para personalizar el funcionamiento del servidor FTP.
+Se han habilitado los accesos de usuarios locales y anónimos, configurado los permisos de lectura y escritura, establecido límites de velocidad, definido mensajes de bienvenida y activado el modo chroot para que los usuarios locales queden confinados en su directorio personal.
+
