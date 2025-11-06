@@ -29,7 +29,7 @@ Luego intenta subir el archivo datos1.txt a pub, te tendra que dar error. Despue
 Actualizo el sistema e instalo el servicio. 
 Primero hago sudo install apt para actualizarlo, tarda un poco.
 
-Luego sudo apt install -y vsftpd para instalarlo.
+Luego sudo apt install -y vsftpd para instalarlo. Tambien comrpuebo si esta iniciado el servicio.
 
 Compruebo que el usuario este iniciado. 
 
@@ -40,3 +40,4 @@ Tambien hago lo mismo para los grupos.
 
 Compruebo los usuarios bloqueados.
 
+Tambien compruebo el puerto 21 si el servidor lo está escuchando.
