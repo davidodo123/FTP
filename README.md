@@ -38,5 +38,5 @@ Efectivamente esta corriendo.
 
 Tambien hago lo mismo para los grupos.
 
-
+Compruebo los usuarios bloqueados.
 
