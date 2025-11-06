@@ -45,3 +45,5 @@ Tambien compruebo el puerto 21 si el servidor lo está escuchando.
 Hago una copia de seguridad.
 
 Creo los 3 usuarios locales maria, miguel y luis con sudo useradd -m <usuario>. 
+
+Creo 3 ficheros de pruebas para los usuarios locales.
