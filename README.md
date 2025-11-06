@@ -61,3 +61,7 @@ Verifico el servicio y me vuelvo a conectar en FileZilla con mi servidor.
 En FileZilla me descargo luis.txt y subo datos1.txt para ver si está bien.
 
 Vuelvo a abrir la lista de bloqueados y meto a Maria, luego me voy a FileZilla y me meto al servidor como maria. Y como puedo observar, estaría bien ya que me da error.
+
+## Configuración servidor
+
+Procedo a crear el certificado SSL para FTPS. Me pedira rellenar los datos.
