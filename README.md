@@ -56,3 +56,7 @@ Luego excluyo a Mario del chroot
 Reinicio el servicio y compruebo si esta bien.
 
 Verifico el servicio y me vuelvo a conectar en FileZilla con mi servidor.
+
+
+En FileZilla me descargo luis.txt y subo datos1.txt para ver si está bien.
+
