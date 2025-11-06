@@ -27,3 +27,5 @@ En la parte superior izquierda, hay que rellenar los datos de Servidor, nombre d
 
 
 Te tendra que salir esto si es exitosa la conexion.
+
+En la parte derecha,esta la conexion con pub, dentro hay que buscar el archivo check. Asegurate de estar tambien en el lado izquierodo con la carpeta pruebaFTp, luego le das a descargar al archivo de chexk y tiene que haber transferencia completada.
