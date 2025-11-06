@@ -41,3 +41,5 @@ Tambien hago lo mismo para los grupos.
 Compruebo los usuarios bloqueados.
 
 Tambien compruebo el puerto 21 si el servidor lo está escuchando.
+
+Hago una copia de seguridad.
