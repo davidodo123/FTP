@@ -13,3 +13,8 @@ Luego sudo apt install -y vsftpd para instalarlo.
 Compruebo que el servicio este activo. 
 
 Efectivamente esta corriendo.
+
+
+## Uso del cliente FTP gráfico
+
+Crear en el escritorio carpeta pruebaFTP.
