@@ -42,7 +42,7 @@ Compruebo que el usuario este iniciado.
 ![Usuario](images/elusuarioexisteperfectamente.png)
 
 Efectivamente esta corriendo.
-![SegundaVerificacion](images\segundaverificaciondeusuario.png)
+![SegundaVerificacion](images/segundaverificaciondeusuario.png)
 
 Tambien hago lo mismo para los grupos.
 ![Grupos](images/gruposdeusuarios.png)
