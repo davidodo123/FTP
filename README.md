@@ -39,10 +39,10 @@ Luego sudo apt install -y vsftpd para instalarlo. Tambien comrpuebo si esta inic
 ![InstallarVsftp](images/instalarvsftpd.png)
 
 Compruebo que el usuario este iniciado. 
-![Conexión FTP exitosa](images/elusuarioexisteperfectamente.png)
+![Usuario](images/elusuarioexisteperfectamente.png)
 
 Efectivamente esta corriendo.
-![Conexión FTP exitosa](images\segundaverificaciondeusuario.png)
+![SegundaVerificacion](images\segundaverificaciondeusuario.png)
 
 Tambien hago lo mismo para los grupos.
 ![Grupos](images/gruposdeusuarios.png)
