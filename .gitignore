@@ -4,3 +4,5 @@
 # Exceptuar este archivo
 !.gitignore
 !README.md
+!images/
+!images/**
