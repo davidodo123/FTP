@@ -23,7 +23,7 @@ En la parte derecha,esta la conexion con pub, dentro hay que buscar el archivo c
 ![SubirArchivoCheck](images/Archivocheck.png)
 
 Ahora tienes que tener en tu carpeta pruebaFTp, tanto datos1.txt como check.
-![Verificar](images/Comprobar%20check%20en%20carpeta.png)
+![Verificar](images/crearpracticaFTp.png)
 
 Luego intenta subir el archivo datos1.txt a pub, te tendra que dar error. Despues desconecta el servidor.
 ![ErrorDatos1.txt](images/subir datos1.txt.png)
